@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6APGOjmpOvR_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Krispy Kreme Timeline</langstring>
+        </title>
+        <description>
+          <langstring xml:lang="x-none">Interactice Timeline detailing the history of Krispy Kreme, Inc.</langstring>
+        </description>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Krispy_Kreme_Timeline_ORG">
+    <organization identifier="Krispy_Kreme_Timeline_ORG">
+      <title>Krispy Kreme Timeline</title>
+      <item identifier="Interactive_Timeline_short_SCO" isvisible="true" identifierref="__6APGOjmpOvR_course_id_RES">
+        <title>Krispy Kreme Timeline</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6APGOjmpOvR_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5vjBOnDOpid_80_DX2000_DY2000_CX1508_CY848.png" />
+      <file href="mobile/6crjKkW7eZD_80_P_0_0_894_1067_DX676_DY676_CX354_CY423.jpg" />
+      <file href="mobile/5duyuJ58Zfx_80_DX906_DY906_CX683_CY234.png" />
+      <file href="mobile/6OzStUMCEzB_80_DX482_DY482_CX362_CY75.jpg" />
+      <file href="mobile/6pCKvxDeBeq_80_DX986_DY986_CX744_CY512.png" />
+      <file href="mobile/5vjBOnDOpid_80_DX2000_DY2000_CX1509_CY849.png" />
+      <file href="mobile/5q8LJmF6nNp_80_DX166_DY166_CX124_CY123.png" />
+      <file href="mobile/6OazgwiQlhn_80_DX166_DY166_CX125_CY124.png" />
+      <file href="mobile/6CeL3ebI9oy_80_DX522_DY522_CX393_CY295.png" />
+      <file href="mobile/5mRV0Akja6q_80_P_0_0_289_208_DX562_DY562_CX290_CY208.jpg" />
+      <file href="mobile/5bCMBAuc09h_80_DX1694_DY1694_CX1274_CY452.png" />
+      <file href="mobile/5dXIZtUvW51_80_P_172_1020_1700_85_DX2360_DY2360_CX1467_CY74.png" />
+      <file href="mobile/6B3wLaNuDAi_80_DX224_DY224_CX151_CY153.png" />
+      <file href="mobile/6B3wLaNuDAi_80_DX224_DY224_CX158_CY160.png" />
+      <file href="mobile/5fIcqtQwfV8_80_P_89_124_1874_576_DX1578_DY1578_CX1088_CY335.png" />
+      <file href="mobile/6UHt0OtppOP_80_P_0_731_368_576_DX1578_DY1578_CX214_CY335.png" />
+      <file href="mobile/5gfjW9kYKHE_80_P_1615_731_432_577_DX1578_DY1578_CX250_CY334.png" />
+      <file href="mobile/5mRLlHiiTik_80_DX892_DY892_CX468_CY468.jpg" />
+      <file href="mobile/5csPEwFQPlY_80_DX746_DY746_CX449_CY561.jpg" />
+      <file href="mobile/6cc8L6FYmkP_80_DX300_DY300_CX150_CY150.png" />
+      <file href="mobile/669YRUhXfq1_80_DX1054_DY1054_CX759_CY469.jpg" />
+      <file href="mobile/5xww0jSN8rL_80_DX598_DY598_CX451_CY451.jpg" />
+      <file href="mobile/6gmaU32uDy5_80_P_0_0_2843_1771_DX482_DY482_CX363_CY226.png" />
+      <file href="mobile/6O7PXOOwIwm_80_DX898_DY898_CX661_CY586.png" />
+      <file href="mobile/5edtyux0goT_80_P_1205_784_394_545_DX2134_DY2134_CX309_CY428.png" />
+      <file href="mobile/6XxvY9M4Pun_80_DX2000_DY2000_CX1328_CY254.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Shape6gM7DlftK2k.png" />
+      <file href="mobile/Shape6dnEzYsYzlq.png" />
+      <file href="mobile/Shape6rpg1B9CJpi.png" />
+      <file href="mobile/Shape5scaHaUt5Ep.png" />
+      <file href="mobile/Shape6gmyshV8xnm.png" />
+      <file href="mobile/Shape5zlSvqifjDj.png" />
+      <file href="mobile/Shape5gx4sJwm4zz.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5gzKcvkjbqy.js" />
+      <file href="html5/data/js/5sZguQM5380.js" />
+      <file href="html5/data/js/63K5S7HLXB5.js" />
+      <file href="html5/data/js/6eqEgh8yXdT.js" />
+      <file href="html5/data/js/6FGY3SuGLEK.js" />
+      <file href="html5/data/js/6iyQqOFT2Ow.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
